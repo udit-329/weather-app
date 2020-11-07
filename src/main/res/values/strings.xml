@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shine</string>
+    <string name="weather">weather</string>
+    <string name="toronto">toronto</string>
+    <string name="date">date</string>
+    <string name="_30">30</string>
+    <string name="besttemp">besttemp</string>
+    <string name="textview">TextView</string>
+    <string name="time">time</string>
+</resources>
