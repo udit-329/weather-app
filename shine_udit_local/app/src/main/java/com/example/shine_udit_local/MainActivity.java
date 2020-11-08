@@ -51,6 +51,6 @@ String apikey="03b431e0388ab2f5ce8b19f3aa73272c";
             public void onFailure(Call<dataGet> call, Throwable t) {
                 
             }
-        });
+        }
     }
 }
