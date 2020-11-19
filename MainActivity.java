@@ -25,7 +25,7 @@ import org.json.JSONObject;
 public class MainActivity extends AppCompatActivity {
 
     //private static String OPEN_WEATHER_MAP_URL = "api.openweathermap.org/data/2.5/weather?q=Toronto&appid=";
-    //private static String OPEN_WEATHER_MAP_API = "542ce61fca8f88351ade3116575cd0e8";
+    //private static String OPEN_WEATHER_MAP_API = "<API-KEY";
     TextView currentTemp, city, currentDescription, date, bestWeatherTemp, bestWeatherDescription, bestTime;
     @Override
     protected void onCreate(Bundle savedInstanceState)   {
