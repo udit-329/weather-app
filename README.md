@@ -7,3 +7,8 @@ We used Google places API and OpenWeatherMap api to get relevant information.
 
 View the weather in any city, and the best time today to go out today.
 Also locate nearby parks, spas, bakeries and more.
+
+<p align="center">
+  <img src="Screenshot_20201119_205953_com.example.shine_udit_local.jpg" width="350" title="hover text">
+  
+</p>
