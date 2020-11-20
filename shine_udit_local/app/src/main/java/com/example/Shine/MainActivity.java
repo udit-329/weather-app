@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
     TextView bestTimeText;
     TextView textView2;
     String url = "api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}";
-    String apikey = "03b431e0388ab2f5ce8b19f3aa73272c";
+    String apikey = "<API_KEY>";
 
 
     //initialize buttons
